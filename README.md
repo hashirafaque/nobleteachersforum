@@ -6,7 +6,7 @@ Welcome to the **Noble Teachers Forum**, a heartfelt platform dedicated to celeb
 
 The website is built using **HTML**, **CSS**, and **JavaScript** by **Hashir Afaque**, a proud student of **AMU ABK High School, Class 9-A6**.  
 
-🌐 **Live Website**: [nobletf.netlify.com](https://nobletf.netlify.com)  
+🌐 **Live Website**: [nobletf.netlify.app](https://nobletf.netlify.app)  
 
 ---
 
