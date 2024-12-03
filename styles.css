@@ -1,0 +1,71 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: white;
+}
+
+.hero {
+    text-align: center;
+    padding: 50px 20px;
+    background: linear-gradient(to right, #4e54c8, #8f94fb);
+    color: white;
+}
+
+.filters .form-select {
+    width: 50%;
+    margin: 20px auto;
+}
+
+.teachers .teacher-card {
+    background: #f8f9fa;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 15px;
+    transition: transform 0.3s;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    cursor: pointer;
+}
+
+.teachers .teacher-card:hover {
+    transform: scale(1.05);
+}
+
+.teacher-icon {
+    font-size: 50px; /* Larger icons */
+    margin-bottom: 15px;
+}
+
+.teacher-card p {
+    font-size: 14px;
+}
+
+.about-us ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.about-us ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    margin-top: 30px;
+    background-color: #343a40;
+}
+
+footer p {
+    color: white;
+}
+
+/* Modal Styles */
+.modal-content {
+    background-color: #f8f9fa;
+    color: black;
+}
+
+.modal-header {
+    background-color: #343a40;
+    color: white;
+}
